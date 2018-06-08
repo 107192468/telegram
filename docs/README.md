@@ -1,4 +1,5 @@
 # GoLang bindings for the Telegram API [![discord](https://discordapp.com/api/guilds/208605007744860163/widget.png)](https://discord.gg/dCWkgSS)
+## [Repo moved to GitLab](https://gitlab.com/toby3d/telegram)
 > This package is in active development and **not recommended for use in production for now**. Use [go dep](https://golang.github.io/dep/) to freeze the state of the package in your projects!
 
 [![License](https://img.shields.io/npm/l/express.svg?maxAge=2592000)](LICENSE.md)
